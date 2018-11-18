@@ -1,0 +1,16 @@
+ Volume in drive C has no label.
+ Volume Serial Number is BA28-EDAC
+
+ Directory of C:\Users\user\Desktop\bacon666
+
+23/05/2017  19:43    <DIR>          .
+23/05/2017  19:43    <DIR>          ..
+23/05/2017  19:42                26 bacon.txt
+23/05/2017  13:19    <DIR>          bacon999
+23/05/2017  19:38                16 baconsauce.txt
+23/05/2017  13:19    <DIR>          Lamb666
+23/05/2017  19:38                16 pork.txt
+23/05/2017  19:43                 0 porky.txt
+23/05/2017  13:19    <DIR>          saxang666
+               4 File(s)             58 bytes
+               5 Dir(s)  11.327.950.848 bytes free

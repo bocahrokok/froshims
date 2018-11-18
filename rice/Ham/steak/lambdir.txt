@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is BA28-EDAC
+
+ Directory of C:\Users\user\Desktop\bacon666\Lamb666
+
+23/05/2017  22:57    <DIR>          .
+23/05/2017  22:57    <DIR>          ..
+23/05/2017  19:42                26 bacon.txt
+23/05/2017  22:57                 0 lambdir.txt
+               2 File(s)             26 bytes
+               2 Dir(s)  11.320.631.296 bytes free
